@@ -1,0 +1,388 @@
+fileFormatVersion: 2
+guid: 9773a7c2537b06b40a255c1ad6664cb5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4135541748087911993
+    second: GamePlayer_0
+  - first:
+      213: 387115459302656315
+    second: GamePlayer_1
+  - first:
+      213: -6208142447334703938
+    second: GamePlayer_2
+  - first:
+      213: 878779394665191581
+    second: GamePlayer_3
+  - first:
+      213: -2226593406844193294
+    second: GamePlayer_4
+  - first:
+      213: 2870298808396766130
+    second: GamePlayer_5
+  - first:
+      213: -8135842677875471211
+    second: GamePlayer_6
+  - first:
+      213: -6005712664705493203
+    second: GamePlayer_7
+  - first:
+      213: 7812833028705083820
+    second: GamePlayer_8
+  - first:
+      213: -6385347708249093055
+    second: GamePlayer_9
+  - first:
+      213: 8015064580831897212
+    second: GamePlayer_10
+  - first:
+      213: -5945321293759125563
+    second: GamePlayer_11
+  - first:
+      213: 7522597770295371307
+    second: GamePlayer_12
+  - first:
+      213: 2192106162176570202
+    second: GamePlayer_13
+  - first:
+      213: -9176449385463325621
+    second: GamePlayer_14
+  - first:
+      213: 6041739615092824393
+    second: GamePlayer_15
+  - first:
+      213: 158641559787854013
+    second: GamePlayer_16
+  - first:
+      213: -6316239898509822489
+    second: GamePlayer_17
+  - first:
+      213: 2948000569052400212
+    second: GamePlayer_18
+  - first:
+      213: -2527805853455914676
+    second: GamePlayer_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GamePlayer_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 130
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c90c6fe0ba9b96c0800000000000000
+      internalID: -4135541748087911993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GamePlayer_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 130
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b390cce857f4f5500800000000000000
+      internalID: 387115459302656315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GamePlayer_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 130
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc3797165f38d9a0800000000000000
+      internalID: -6208142447334703938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GamePlayer_3
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 130
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9893f6143d023c00800000000000000
+      internalID: 878779394665191581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GamePlayer_4
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 130
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f533dde71d8911e0800000000000000
+      internalID: -2226593406844193294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GamePlayer_5
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 130
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb57b90f8955d720800000000000000
+      internalID: 2870298808396766130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GamePlayer_6
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 130
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c05c4a03ea71f80800000000000000
+      internalID: -8135842677875471211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GamePlayer_7
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 130
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d271a2da62c67aca0800000000000000
+      internalID: -6005712664705493203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GamePlayer_8
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 130
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1e765de32cc6c60800000000000000
+      internalID: 7812833028705083820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GamePlayer_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 60
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c45722710b267a0800000000000000
+      internalID: -6385347708249093055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
